@@ -21,6 +21,7 @@
 export default {
     props: ['error'],
     layout: 'default',
+    transition: 'fadein',
 
     // add dynamic title
 
