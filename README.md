@@ -1,4 +1,4 @@
-# nuxt2
+# Try the Nuxt2 Framework.
 
 ## Build Setup
 
